@@ -22,4 +22,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 # Link to the Site:
 
-https://sinjini46.github.io/password_generator/
+https://password-generator-seven-bice.vercel.app/
